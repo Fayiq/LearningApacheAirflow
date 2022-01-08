@@ -1,0 +1,14 @@
+This is Repository that I am maintaing, to keep track of all that I have learned 
+in Apache Airflow.
+
+I have started with a Udemy course The Complete Hands-On Introduction to Apache Airflow by Marc Lamberti (https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
+
+I am only mainting the code here and will leave necessary information on what the code does and if there are any pre-requisites required for the same.
+The theoretical knowledege can be obtained from various online resources, but personally I am referring the official online documentation https://airflow.apache.org/docs/
+
+Pre-requisites:
+
+1: Download the Airflow VM instance from the course material and and set it up using program like Virtual box.
+   The username and password for the same is "airflow"
+
+2: We will use Virtial Studio code editor to connect with the instance in our local system to the Airflow instance.
